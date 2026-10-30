@@ -21,8 +21,3 @@ Full-Stack Web Developer & Automotive Tech Enthusiast<br><br>Passioned Full-Stac
 ---
 [![](https://komarev.com/ghpvc/?username=hmongcodequest&icon=0&color=0)](https://visitcount.itsvg.in)
 ```[cite: 1]
-
-### ວິທີການນຳໄປໃຊ້:
-1. ໃຫ້ສ້າງ Repository ໃໝ່ເທິງ GitHub ໂດຍ **ຕັ້ງຊື່ Repository ໃຫ້ຄືກັບຊື່ Account ຂອງເຈົ້າປະມານນີ້:** `hmongcodequest` (ມັນຈະກາຍເປັນ Special Repository ທີ່ສະແດງໜ້າ Profile ໂດຍອັດຕະໂນມັດ).
-2. ສ້າງໄຟລ໌ຊື່ `README.md` ແລ້ວຄັດລອກ (Copy) ໂຄ້ດຂ້າງເທິງນີ້ໄປວາງລົງໄປ.
-3. ບັນທຶກ (Save / Commit) ພຽງເທົ່ານີ້ໜ້າ Profile ຂອງ GitHub ເຈົ້າກໍຈະສວຍງາມ ແລະ ເດັ່ນຊັດຂຶ້ນມາທັນທີ!
